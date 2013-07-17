@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>GHUnitTest.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>LikeAppTests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>iMerPhotos copy 2.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>iMerPhotos copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>iMerPhotos.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>04CAD9FB177C45A8000517C0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CE91CEF91761E6A000CD1438</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CE91CF1F1761E6A100CD1438</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CED32F44177D94E3003F0BB1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CED32FE2177D99F7003F0BB1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CEF1791B176EC0A900B23060</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
